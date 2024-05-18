@@ -1,0 +1,57 @@
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+$tf/
+.vs/
+*.[Cc]ache
+!*.[Cc]ache/
+_UpgradeReport_Files/
+Backup*/
+UpgradeLog*.XML
+UpgradeLog*.htm
+
+sqlite/sqlite3.dll
+sqlite/sqlite3.def
+
+# ignore build outputs
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Bb]in/
+[Oo]bj/
+[Ff]akes[Aa]ssemblies/
+*.binlog
+
+# ignore nuget packages folder
+/packages
+/NuGet
+
+# ignore generated html files
+*.htm
+
+# Visual Studio test runner
+[Tt]est[Rr]esult*/
+[Ii]ndex.dat
+[Ss]torage.dat
+
+# .NET CLI
+project.lock.json
+artifacts/
+global.json
+
+# Visual Studio profiler
+*.psess
+*.vsp
+*.vspx
+
+# ReSharper folders and files
+_ReSharper*/
+*.[Rr]e[Ss]harper
+*.DotSettings.user
+
+# NCrunch folders and files
+_NCrunch_*/
+_NCrunch_*
+*.ncrunch*

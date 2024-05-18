@@ -1,0 +1,65 @@
+.employee-table {
+    border-collapse: collapse;
+}
+
+.employee-table th {
+    border: 1px solid #020202;
+    text-align: left;
+    padding: 10px;
+}
+
+.border-cell {
+    border: 1px solid #020202;
+    text-align: left;
+    padding: 10px;
+}
+
+.salary-range {
+    position: relative;
+    right: 0px;
+}
+
+.salary-r-container {
+    display: flex;
+    flex-direction: row;
+}
+
+.salary-w {
+    width: 35px;
+}
+
+.calendar-btn {
+    border: none;
+    background: none;
+    cursor: pointer;
+}
+
+.calendar-c-date {
+    position: absolute;
+}
+
+.calendar-close-btn {
+    position: absolute;
+    right: 0px;
+    top: 0px;
+}
+
+.btn-block-a {
+    position: relative;
+    margin: 2em;
+}
+.btn-block-a button{
+    height: 40px;
+    width: 100px;
+    margin: 3em;
+}
+
+.tab-block-a {
+    position: relative;
+}
+
+.e-page-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
