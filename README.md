@@ -34,15 +34,15 @@ listening on: http://localhost:5118/
 
 ### update
 
-![image](https://github.com/circir9/nex_homework/tree/main/picture/update_1.png) \
-![image](https://github.com/circir9/nex_homework/tree/main/picture/update_2.png)
+![image](https://github.com/circir9/nex_homework/blob/main/picture/update_1.png) \
+![image](https://github.com/circir9/nex_homework/blob/main/picture/update_2.png)
 
 ### add
 
-![image](https://github.com/circir9/nex_homework/tree/main/picture/add_1.png) \
-![image](https://github.com/circir9/nex_homework/tree/main/picture/add_2.png)
+![image](https://github.com/circir9/nex_homework/blob/main/picture/add_1.png) \
+![image](https://github.com/circir9/nex_homework/blob/main/picture/add_2.png)
 
 ### save
 
-![image](https://github.com/circir9/nex_homework/tree/main/picture/save_1.png) \
-![image](https://github.com/circir9/nex_homework/tree/main/picture/save_2.png)
+![image](https://github.com/circir9/nex_homework/blob/main/picture/save_1.png) \
+![image](https://github.com/circir9/nex_homework/blob/main/picture/save_2.png)
